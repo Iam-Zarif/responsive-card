@@ -24,7 +24,9 @@
     .container-course img{
         width: 70%;
     }
-   
+   .container-course{
+    margin-top: 40px;
+   }
     
     
 }
