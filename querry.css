@@ -1,0 +1,30 @@
+@media screen and (max-width:688px) {
+    #players{
+        
+        grid-template-columns: repeat(1, 1fr);
+       margin-top: 20px;
+       
+    }
+    #blogs{
+        grid-template-columns: repeat(1, 1fr);
+        margin-top: 35px;
+        row-gap: 20px;
+        justify-items: center;
+    }
+    .main-blog{
+        margin-top: 15px;
+    }
+    .article{
+        flex-direction: column;
+    }
+    #course-container{
+        flex-direction: column;
+        
+    }
+    .container-course img{
+        width: 70%;
+    }
+   
+    
+    
+}
