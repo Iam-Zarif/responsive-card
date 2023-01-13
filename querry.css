@@ -36,5 +36,8 @@
   #header-li{
     gap: 10px !important;
   }
+  #container-sup{
+    flex-direction: column;
+  }
     
 }
